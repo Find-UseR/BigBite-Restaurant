@@ -1,3 +1,5 @@
+# BigBite-Restaurant
+
 🍔 Welcome to the BigBite Food Responsive Website Repository!
 
 Satisfy your cravings with a delectable experience that transcends boundaries. Here, we present a meticulously crafted responsive website that caters to your taste buds, offering an enticing array of meals and drinks. Our commitment to providing an immersive culinary journey is reflected in the fusion of HTML, CSS, and JavaScript that powers this gastronomic delight.
